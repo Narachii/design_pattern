@@ -1,6 +1,6 @@
 package main
 
-func main() {
+func mains() {
 	/**
 	 * The remote is our Invoker;
 	 * it will be passed a
